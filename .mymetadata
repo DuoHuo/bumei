@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bumei_ks"
+  id="myeclipse.1363443960473"
+  context-root="/bumei"
+  j2ee-spec="5.0"
+  archive="bumei_ks.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

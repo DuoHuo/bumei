@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/java/DataBase/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/java/DataBase/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/Servlet-api.jar"/>
+	<classpathentry kind="lib" path="F:/多火/不昧/Json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/多火/不昧/Renren-api-java-sdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/java/DataBase/jspsmartupload.jar"/>
+	<classpathentry kind="lib" path="F:/java/DataBase/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
